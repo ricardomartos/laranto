@@ -4,7 +4,12 @@
 
 ## Requirements
 
-In Laravel 9 using PHP 8.1 and MySQL8:
+In Laravel 9 using PHP 8.1 and MySQL8. 
+
+#### A postman collection and environment is included with the endpoints to play arround.
+
+    postman/Laranto.postman_environment.json
+    postman/RESTAPI.postman_collection.json
 
 - ### Create a product-catalog REST api
 
