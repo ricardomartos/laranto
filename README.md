@@ -67,7 +67,7 @@ Run the database migrations (**Set the database connection in .env before migrat
 
     php artisan migrate
 
-Create a host woth the name of http://laranto.test and point it to the root directory ( *we'll use laravel [Laravel Valet](https://laravel.com/docs/9.x/valet) for this example* )
+Create a host with the name of http://laranto.test and point it to the root directory ( *we'll use laravel [Laravel Valet](https://laravel.com/docs/9.x/valet) for this example* )
 
     cd <your-repo-path> && valet link laranto.test
 
