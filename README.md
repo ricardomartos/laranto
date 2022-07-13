@@ -49,7 +49,7 @@ Clone the repository
 
 Switch to the repo folder
 
-    cd laranto
+    cd laranto && git checkout main
 
 Install all the dependencies using composer
 
